@@ -10,12 +10,7 @@ This Privacy Policy explains how we collects, uses, and discloses personal infor
 **Information We Collect:**
 
 1. **Personal Information:**
-   - We may collect the following personal information from children:
-     - Child's name
-     - Age
-     - Gender (optional)
-     - Email address for parent/guardian consent
-     - Payment for parent/guardian with their consent
+   - We don't collect any Personal Information
    
 2. **Non-Personal Information:**
    - We may collect non-personal information automatically, such as device information, usage patterns, and analytics data.
